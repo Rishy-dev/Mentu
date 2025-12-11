@@ -1,4 +1,6 @@
 tensorflow 
+tenserflowjs
+pillow
 numpy 
 opencv-python
 teachable-machine
